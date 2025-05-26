@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Cohercion/Cohercion.iml" filepath="$PROJECT_DIR$/Cohercion/Cohercion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dependencia/Dependencia.iml" filepath="$PROJECT_DIR$/Dependencia/Dependencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Herencia/Herencia.iml" filepath="$PROJECT_DIR$/Herencia/Herencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HerenciaConDowncasting/HerenciaConDowncasting.iml" filepath="$PROJECT_DIR$/HerenciaConDowncasting/HerenciaConDowncasting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HerenciaUpcasting/HerenciaUpcasting.iml" filepath="$PROJECT_DIR$/HerenciaUpcasting/HerenciaUpcasting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Ejemplos Naveda.iml" filepath="$PROJECT_DIR$/Java Ejemplos Naveda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parametrico/Parametrico.iml" filepath="$PROJECT_DIR$/Parametrico/Parametrico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sobrecarga/Sobrecarga.iml" filepath="$PROJECT_DIR$/Sobrecarga/Sobrecarga.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Upcasting/Upcasting.iml" filepath="$PROJECT_DIR$/Upcasting/Upcasting.iml" />
+    </modules>
+  </component>
+</project>
