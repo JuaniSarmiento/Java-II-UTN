@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 plugins {
     id 'java'
 }
@@ -17,24 +16,4 @@ dependencies {
 
 test {
     useJUnitPlatform()
-=======
-plugins {
-    id 'java'
-}
-
-group = 'org.example'
-version = '1.0-SNAPSHOT'
-
-repositories {
-    mavenCentral()
-}
-
-dependencies {
-    testImplementation platform('org.junit:junit-bom:5.10.0')
-    testImplementation 'org.junit.jupiter:junit-jupiter'
-}
-
-test {
-    useJUnitPlatform()
->>>>>>> 282639c696d7bd377e9aec96ee6f3ed75d109494
 }
