@@ -13,7 +13,6 @@ Este proyecto es una aplicación de consola escrita en **Java** que permite gest
 - [Uso](#-uso)
 - [Estructura del Proyecto](#-estructura-del-proyecto)
 - [Autores](#-autores)
-- [Licencia](#-licencia)
 - [Mejoras Futuras](#-mejoras-futuras)
 - [Notas Adicionales](#-notas-adicionales)
 
@@ -59,7 +58,7 @@ Antes de ejecutar este proyecto, necesitás tener instalado:
 1. **Cloná el repositorio o descargá el proyecto:**
 
    ```bash
-   git clone https://github.com/tu_usuario/sistema-gestion-academica.git
+   git clone https://github.com/JuaniSarmiento/Java-II-UTN/tree/ba7b60ffd9e2b1188cb7231b1720b5dcd16fbab2/Naveda/ParcialJava
    ```
 
 2. **Configurá la base de datos MySQL.**  
@@ -88,7 +87,7 @@ Antes de ejecutar este proyecto, necesitás tener instalado:
    Asegurate de que los datos de conexión coincidan con tu entorno:
 
    ```java
-   private static final String URL = "jdbc:mysql://localhost:3306/escuela?useSSL=false&serverTimezone=UTC";
+   private static final String URL = "jdbc:mysql://localhost:3306/escuela";
    private static final String USER = "root";
    private static final String PASS = "";
    ```
