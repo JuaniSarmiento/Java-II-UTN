@@ -14,9 +14,7 @@ import java.util.InputMismatchException;
 import java.util.List;
 import java.util.Scanner;
 
-/**
- * Punto de entrada del sistema de gestión académica con menú interactivo CRUD.
- */
+
 public class Main {
     private static final Logger logger = LogManager.getLogger(Main.class);
 
